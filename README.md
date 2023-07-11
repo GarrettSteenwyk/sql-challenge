@@ -1,1 +1,5 @@
 # sql-challenge
+
+Regarding the schemata, I organized them as needed so they do not have a dependency issue should the file be executed from start to finish. However, in importing, I could not discern the reason for dept_manager failing to do so. I even tried using its sister table, dept_emp, although each are set up exactly the same. I then used the sister dataset and that worked fine being put into a second table, but I wonder of something to do with the keys or the possibility of needing a certain constraint would fix that. Thankfully, it was a small data set, so I put it through by hand.
+
+For the queries, they were done in order, however I do not know if I should have saved the query outputs into its own file. I assumed not as this was the first sql assignment, so again, they are ordered to the assignment page.
